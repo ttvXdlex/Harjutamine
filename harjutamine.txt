@@ -16,3 +16,5 @@ Kes kasutavad GitHubi:
   5   Ettevõtted ja idufirmad: Korporatiivsete projektide, sisemiste ja väliste hoidlate haldamiseks.
 
 GitHubi saan edaspidi kasutada oma projektide koodi haldamiseks, versioonide jälgimiseks ja koostööks teiste arendajatega. Samuti võimaldab see mul avatud lähtekoodiga projektides osaleda ja õppida tarkvaraarenduse parimaid tavasid.
+
+GitHub Inc. asutati 2008. aastal nelja kaasasutaja poolt: Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chacon. GitHubi teenus sai esmakordselt kättesaadavaks sama aasta aprillis. Platvorm loodi eesmärgiga muuta tarkvaraarendajate koostöö ja koodihaldus lihtsamaks, kasutades versioonihaldussüsteemi Git, mille töötas välja Linus Torvalds 2005. aastal.
