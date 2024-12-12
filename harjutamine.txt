@@ -14,5 +14,3 @@ Kes kasutavad GitHubi:
   3  Disainerid ja testijad: Projektidega seotud failide, näiteks prototüüpide ja vigaraportite, haldamiseks.
   4  Haridusasutused ja tudengid: Programmeerimise õppimiseks, õppematerjalide salvestamiseks ja meeskonnatöö harjutamiseks.
   5   Ettevõtted ja idufirmad: Korporatiivsete projektide, sisemiste ja väliste hoidlate haldamiseks.
-
-GitHubi saan edaspidi kasutada oma projektide koodi haldamiseks, versioonide jälgimiseks ja koostööks teiste arendajatega. Samuti võimaldab see mul avatud lähtekoodiga projektides osaleda ja õppida tarkvaraarenduse parimaid tavasid.
