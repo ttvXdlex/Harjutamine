@@ -1,0 +1,16 @@
+GitHub on veebiteenus ja platvorm tarkvara majutamiseks ning koostööks, mis põhineb versioonihaldussüsteemil Git. GitHub võimaldab arendajatel salvestada, hallata ja jälgida koodimuudatusi ning teha koostööd teiste projektiosalistega.
+GitHubi põhivõimalused:
+
+  1 Hoidlate majutamine: Arendajad saavad salvestada oma projektide koodi hoidlatena (avalikud või privaatseadistusega).
+  2  Versioonihaldus: Tänu Giti integreerimisele aitab GitHub jälgida koodimuutuste ajalugu, muutes varasemate versioonide taastamise lihtsaks.
+  3  Koostöö tööriistad: Kasutajad saavad teha hoidlate kahvleid (forks), rakendada muudatusi ja esitada need läbi tõmbepäringute (pull request).
+  4  Projekti haldamise tööriistad: Teenus pakub ülesannete, vigade ja ideede jälgimise süsteemi (Issues) ning Kanbani-tahvleid.
+  5  Integratsioonid: GitHub toetab CI/CD tööriistu, mis automatiseerivad rakenduste ehitamise, testimise ja juurutamise protsesse.
+
+Kes kasutavad GitHubi:
+
+  1  Tarkvaraarendajad: Kasutavad platvormi koodi kirjutamiseks, jälgimiseks ja avatud lähtekoodiga projektide haldamiseks.
+  2  DevOps insenerid: Automaatprotsesside ja muude arendustööriistade integreerimiseks.
+  3  Disainerid ja testijad: Projektidega seotud failide, näiteks prototüüpide ja vigaraportite, haldamiseks.
+  4  Haridusasutused ja tudengid: Programmeerimise õppimiseks, õppematerjalide salvestamiseks ja meeskonnatöö harjutamiseks.
+  5   Ettevõtted ja idufirmad: Korporatiivsete projektide, sisemiste ja väliste hoidlate haldamiseks.
